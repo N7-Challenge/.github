@@ -1,5 +1,6 @@
 # N7 Challenge README
-![n7 challeng](../images/n7%20challenge.jpeg)
+
+![N7 Challenge](https://github.com/N7-Challenge/.github/blob/main/images/n7%20challenge.jpeg)
 
 Welcome to our N7 Challenge GitHub repository! We're thrilled to be participating in this exciting event aimed at exploring the synergy of AI, cybersecurity, and Blockchain to address Morocco's digital challenges.
 
