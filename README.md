@@ -11,9 +11,9 @@ The N7 Challenge is a hackathon focusing on leveraging AI, cybersecurity, and Bl
 
 We are a dynamic team of [insert number of team members] passionate individuals committed to making a meaningful impact through technology. Meet our team members on LinkedIn:
 
-- [Ouail Laamiri](https://www.linkedin.com/in/ouaillaamiri/)
-- [MOHAMMED HADDAD](https://www.linkedin.com/in/mohammed-haddad-828507216/)
-- [Ismail OUKHA](https://www.linkedin.com/in/ismail-oukha-90a070227/)
+- [Ouail Laamiri](https://www.linkedin.com/in/ouaillaamiri/) : Software Engineering Student @FST
+- [MOHAMMED HADDAD](https://www.linkedin.com/in/mohammed-haddad-828507216/) : Software Engineering Student @FST
+- [Ismail OUKHA](https://www.linkedin.com/in/ismail-oukha-90a070227/) : Software Engineering Student @FST
 
 ## Challenge Information
 
