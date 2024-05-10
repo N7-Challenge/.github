@@ -1,4 +1,4 @@
-# N7 Challenge README
+# N7 Challenge
 
 ![N7 Challenge](https://github.com/N7-Challenge/.github/blob/main/images/n7%20challenge.jpeg)
 
