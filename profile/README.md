@@ -10,7 +10,7 @@ The N7 Challenge is a hackathon focusing on leveraging AI, cybersecurity, and Bl
 
 ## Our Team
 
-We are a dynamic team of [insert number of team members] passionate individuals committed to making a meaningful impact through technology. Meet our team members on LinkedIn:
+We are a dynamic team of 3 passionate individuals committed to making a meaningful impact through technology. Meet our team members on LinkedIn:
 
 - [Ouail Laamiri](https://www.linkedin.com/in/ouaillaamiri/) : Software Engineering Student @FST
 - [MOHAMMED HADDAD](https://www.linkedin.com/in/mohammed-haddad-828507216/) : Software Engineering Student @FST
@@ -26,7 +26,7 @@ We are tasked with exploring the synergy of AI, cybersecurity, and Blockchain te
 
 To submit our project, we must adhere to the following guidelines:
 
-- **GitHub Repository**: We have submitted a GitHub repository containing all the code used for the project. You can find it [here](insert link).
+- **GitHub Repository**: We have submitted a GitHub repository containing all the code used for the project. You can find it [here](https://github.com/orgs/N7-Challenge/repositories).
 - **Documentation**: We have prepared a detailed document outlining our entire process from ideation to implementation.
 - **Demo Video**: We have provided a demo video showcasing the final solution, highlighting its functionality and effectiveness.
 
