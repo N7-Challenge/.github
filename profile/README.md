@@ -12,10 +12,9 @@ e-elections is a groundbreaking endeavor focused on modernizing the electoral sy
 
 We are a dedicated team of 3 individuals passionate about driving positive change through technology. Get to know our team members:
 
-- [Ahmed Benali](https://www.linkedin.com/in/ahmed-benali/) : Software Engineer @Tech Solutions
-- [Fatima Zahra El Mouden](https://www.linkedin.com/in/fatima-zahra-el-mouden/) : Data Scientist @Data Insights
-- [Youssef El Amrani](https://www.linkedin.com/in/youssef-el-amrani/) : Cybersecurity Analyst @SecureTech
-
+- [Ouail Laamiri](https://www.linkedin.com/in/ouaillaamiri/) : Software Engineering Student @FST
+- [MOHAMMED HADDAD](https://www.linkedin.com/in/mohammed-haddad-828507216/) : Software Engineering Student @FST
+- [Ismail OUKHA](https://www.linkedin.com/in/ismail-oukha-90a070227/) : Software Engineering Student @FST
 ## Project Details
 
 ### Problem Statement
