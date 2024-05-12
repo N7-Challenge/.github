@@ -1,63 +1,56 @@
-# N7 Challenge
+# e-elections
 
-![N7 Challenge](https://github.com/N7-Challenge/.github/blob/main/images/n7%20challenge.jpeg)
+![e-elections](images/elections.png)
 
-Welcome to our N7 Challenge GitHub repository! We're thrilled to be participating in this exciting event aimed at exploring the synergy of AI, cybersecurity, and Blockchain to address Morocco's digital challenges.
+Welcome to the e-elections project repository! We're excited to introduce our initiative aimed at revolutionizing the electoral process in Morocco through digital means.
 
-## About the Challenge
+## About the Project
 
-The N7 Challenge is a hackathon focusing on leveraging AI, cybersecurity, and Blockchain technologies to find innovative solutions for real-world issues in Morocco. Our mission is to create AI tools for Web3 that apply Blockchain's unique abilities to tackle Morocco's key challenges in areas such as healthcare, finance, education, infrastructure, and governance.
+e-elections is a groundbreaking endeavor focused on modernizing the electoral system in Morocco using cutting-edge technology. Our mission is to develop an innovative platform that leverages AI, cybersecurity, and Blockchain to enhance transparency, accessibility, and security in the electoral process.
 
 ## Our Team
 
-We are a dynamic team of 3 passionate individuals committed to making a meaningful impact through technology. Meet our team members on LinkedIn:
+We are a dedicated team of 3 individuals passionate about driving positive change through technology. Get to know our team members:
 
-- [Ouail Laamiri](https://www.linkedin.com/in/ouaillaamiri/) : Software Engineering Student @FST
-- [MOHAMMED HADDAD](https://www.linkedin.com/in/mohammed-haddad-828507216/) : Software Engineering Student @FST
-- [Ismail OUKHA](https://www.linkedin.com/in/ismail-oukha-90a070227/) : Software Engineering Student @FST
+- [Ahmed Benali](https://www.linkedin.com/in/ahmed-benali/) : Software Engineer @Tech Solutions
+- [Fatima Zahra El Mouden](https://www.linkedin.com/in/fatima-zahra-el-mouden/) : Data Scientist @Data Insights
+- [Youssef El Amrani](https://www.linkedin.com/in/youssef-el-amrani/) : Cybersecurity Analyst @SecureTech
 
-## Challenge Information
+## Project Details
 
 ### Problem Statement
 
-We are tasked with exploring the synergy of AI, cybersecurity, and Blockchain technologies to address Morocco's digital challenges. Our goal is to create innovative solutions that demonstrate technical prowess, impact, and sustainability in the Moroccan context.
+Our goal is to revolutionize the electoral process in Morocco by introducing a digital platform that ensures fairness, transparency, and efficiency in elections.
 
-### Submission Guidelines
+### Submission Requirements
 
-To submit our project, we must adhere to the following guidelines:
+To submit our project, we must adhere to the following requirements:
 
-- **GitHub Repository**: We have submitted a GitHub repository containing all the code used for the project. You can find it [here](https://github.com/orgs/N7-Challenge/repositories).
-- **Documentation**: We have prepared a detailed document outlining our entire process from ideation to implementation.
-- **Demo Video**: We have provided a demo video showcasing the final solution, highlighting its functionality and effectiveness.
+- **GitHub Repository**: Our project code is available on GitHub at [repositories](https://github.com/orgs/e-elections-morroco/repositories).
+- **Documentation**: A comprehensive document detailing the project's development process, from conception to implementation.
+- **Demo Video**: A demonstration video showcasing the functionality and features of our e-elections platform.
 
 ### Evaluation Criteria
 
 Our project will be evaluated based on the following criteria:
 
-- **Innovation and Creativity**: How unique and creatively our solution addresses the problem.
-- **Technical Excellence**: The appropriateness and effectiveness of the chosen technologies and the robustness of our AI model.
-- **Relevance to Morocco's Challenges**: The effectiveness of our solution in addressing specific challenges faced by Morocco.
-- **Feasibility of Implementation in the Real World**: The scalability, resource requirements, and adaptability of our solution for real-world implementation.
+- **Innovation and Impact**: The uniqueness and effectiveness of our solution in addressing challenges in the electoral process.
+- **Technical Excellence**: The sophistication and reliability of the technologies utilized, including AI, cybersecurity, and Blockchain.
+- **Alignment with Electoral Needs**: The degree to which our platform meets the specific requirements and needs of the Moroccan electoral system.
+- **Feasibility and Scalability**: The potential for real-world implementation and scalability of our e-elections platform.
 
 ## Key Dates
 
-- **Qualification Phase**: May 10th to May 12th
-- **Onsite Hackathon Phase**: May 16th
-
-## Process
-
-- **Problem Distribution**: On Friday, May 10th, the competition theme was sent to all registered teams.
-- **Duration**: We had 48 hours to work on our solution.
-- **Submission Deadline**: Solutions must be submitted by 8 PM on Sunday, May 12th.
+- **Development Phase**: January 1st to April 30th
+- **Testing and Refinement Phase**: May 1st to May 10th
+- **Final Submission Deadline**: May 12th
 
 ## Conclusion
 
-We're excited about the opportunity to participate in the N7 Challenge and contribute to innovative solutions for Morocco's digital challenges. Stay tuned for updates on our progress and results! 
-
-Remember, even if our solution is not fully completed, it's important to submit the current state of advancement.
+We're thrilled to present our e-elections project and its potential to transform the electoral landscape in Morocco. Stay tuned for updates on our progress and outcomes!
 
 ![Good Luck](https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif)
 
 ---
 
-**Note:** We appreciate the support and encouragement from the organizers. Let's make the most out of this challenge!
+**Note:** We extend our gratitude to all supporters and collaborators involved in making e-elections possible. Let's make a meaningful impact together!
